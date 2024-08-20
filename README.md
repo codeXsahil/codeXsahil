@@ -15,7 +15,7 @@
 <a href="https://app.daily.dev/31sahilgupta"><img src="https://api.daily.dev/devcards/v2/nVEWE7qjtN4bfwEF5uUwK.png?type=default&r=a6t" width="356" alt="sahil gupta's Dev Card"/></a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codeXsahil&theme=dark&hide_border=false)
 
-### ✍️ Random Dev Quote
+<!--### ✍️ Random Dev Quote-->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
